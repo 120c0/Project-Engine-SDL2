@@ -5,3 +5,5 @@
 - zlib
 - GL, GLU
 - Tmx
+### System in which I developed
+- Debian (Raspbain - Raspberry Pi 4b)
